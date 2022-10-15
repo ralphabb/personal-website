@@ -1,4 +1,4 @@
-baseURL = "http://www.ralphabboud.com"
+baseURL = ""
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
