@@ -1,0 +1,45 @@
+{{ $content_type := .Params.content_type }}
+
+{{ $educationPage := .Site.GetPage $content_type }}
+
+{{if $educationPage.Params.education}}
+<div class="education col">
+    <!-- Renamed Academia to become education. Also swapped degree and institution positions -->
+    {{range $education := $educationPage.Params.education}}
+    <div class="row">
+        <div class="course col">
+            <div class="institution_dates row">
+                <div class="degree col" id="degree_title">
+                    {{$education.course.degree}}
+                </div>
+                <div class="main_color dates col-md-auto  justify-content-end">
+                    {{$education.course.start_date}}
+                    {{ if $education.course.end_date }}
+                    - {{$education.course.end_date}}
+                    {{else}}
+                    - present
+                    {{end}}
+                </div>
+            </div>
+            <div class="degree_major row">
+                <div class="text-muted col">
+                    {{$education.course.institution}} {{$education.course.major}}
+
+                    {{if $education.course.minor }}
+                    , Minor: {{$education.course.minor}}
+                    {{end}}
+                </div>
+            </div>
+
+            {{if $education.course.other_info}}
+            <div class="other_info row text-muted">
+                <div class="col">
+                    {{$education.course.other_info}}
+                </div>
+            </div>
+            {{end}}
+        </div>
+    </div>
+    {{end}}
+</div>
+{{end}}
