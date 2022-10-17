@@ -1,7 +1,7 @@
 baseURL = "https://www.ralphabboud.com"
 
 # set your your own ga token here.
-googleAnalytics = "UA/G-ZLETRSP1RH"
+googleAnalytics = "G-ZLETRSP1RH"
 
 languageCode = "en-us"
 
