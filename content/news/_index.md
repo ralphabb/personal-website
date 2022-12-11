@@ -8,9 +8,14 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 5
+num_news: 6
 
 news_items:
+- text: "\"Shortest Path Networks for Graph Property Prediction\" accepted as a spotlight paper at LoG 2022!"
+  extra_text: "November 2022"
+  date: 2022-11-24
+  icon: "star"
+  link: "https://openreview.net/forum?id=mWzWvMxuFg1"
 - text: "I have successfully defended my thesis!"
   extra_text: "September 2022"
   date: 2022-09-05
