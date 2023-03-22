@@ -29,13 +29,11 @@ socials:
 
 ---
 
-**Bio.** I have completed my D.Phil in Computer Science at the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][1] and [Prof. Thomas Lukasiewicz][2]. Broadly, my research interests lie in the area of
- graph representation learning (GRL). More specifically, I am interested in identifying the strengths and limitations of GRL models, namely knowledge base embedding models and graph neural networks (GNNs),
-and proposing theory-driven machine learning approaches with provably improved inductive capacity, interpretability, and representation power for better learning and inference 
- over relational data.
+**Bio.** I hold a D.Phil in Computer Science from the University of Oxford, supervised by [Dr. İsmail İlkan Ceylan][1] and [Prof. Thomas Lukasiewicz][2]. My main research area is graph representation learning (GRL). 
+More specifically, I am interested in identifying the strengths and limitations of GRL models, namely shallow embedding models and graph neural networks (GNNs),
+and proposing machine learning approaches with improved inductive capacity, interpretability, and representation power over relational data.
 
-Previously, I have worked on sentiment-aware music composition (B.E. final project) and neural program synthesis (M.Sc. thesis). Moreover, I am currently working on transformer models 
-and natural language processing with [the Learning Agency Lab][3], and am supporting the Learning Engineering program at [Schmidt Futures][4].
+**Current Work.** I am working on large language models (LLMs) and natural language processing with [the Learning Agency Lab][3] and supporting the Learning Engineering program at [Schmidt Futures][4]. I am also a visiting scientist at the [Francis Crick Institute][6].
 
 **Contact.** Please get in touch at ralph {at} ralphabb.ai. You can also find my old departmental webpage [here][5]. 
 
@@ -44,3 +42,4 @@ and natural language processing with [the Learning Agency Lab][3], and am suppor
 [3]: https://www.the-learning-agency-lab.com/
 [4]: https://www.schmidtfutures.com/
 [5]: https://www.cs.ox.ac.uk/people/ralph.abboud/
+[6]: https://www.crick.ac.uk/
