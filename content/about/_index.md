@@ -33,7 +33,7 @@ socials:
 In particular, I am interested in studying the strengths and limitations of GRL models, such as shallow embedding models and graph neural networks (GNNs),
 and proposing machine learning approaches with improved inductive capacity, interpretability, and representation power over relational data. 
 
-**Current Work.** I am currently a Science Associate within the Learning Engineering program at [Schmidt Futures][3], working on applying large language models (LLMs) and structure-oriented machine learning approaches (e.g., GRL techniques) in the education space.
+**Current Work.** I am currently a Science Associate within the Learning Engineering program at [Schmidt Futures][3], working on applying large language models (LLMs) and structure-oriented machine learning approaches (e.g., GRL techniques) to improve middle school math education.
 
 **Contact.** You can reach out to me via my work e-mail, rabboud {at} schmidtfutures.com, or via ralph {at} ralphabb.ai. You can also find my old Oxford departmental webpage [here][4]. 
 
