@@ -29,17 +29,15 @@ socials:
 
 ---
 
-**Bio.** I hold a D.Phil in Computer Science from the University of Oxford, supervised by [Dr. İsmail İlkan Ceylan][1] and [Prof. Thomas Lukasiewicz][2]. My main research area is graph representation learning (GRL). 
-More specifically, I am interested in identifying the strengths and limitations of GRL models, namely shallow embedding models and graph neural networks (GNNs),
-and proposing machine learning approaches with improved inductive capacity, interpretability, and representation power over relational data.
+**Bio.** I completed a D.Phil in Computer Science from the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][1] and [Prof. Thomas Lukasiewicz][2] in 2022. My main research area is graph representation learning (GRL). 
+In particular, I am interested in studying the strengths and limitations of GRL models, such as shallow embedding models and graph neural networks (GNNs),
+and proposing machine learning approaches with improved inductive capacity, interpretability, and representation power over relational data. 
 
-**Current Work.** I am working on large language models (LLMs) and natural language processing with [the Learning Agency Lab][3] and supporting the Learning Engineering program at [Schmidt Futures][4]. I am also a visiting scientist at the [Francis Crick Institute][6].
+**Current Work.** I am currently a Science Associate within the Learning Engineering program at [Schmidt Futures][3], working on applying large language models (LLMs) and structure-oriented machine learning approaches (e.g., GRL techniques) in the education space.
 
-**Contact.** Please get in touch at ralph {at} ralphabb.ai. You can also find my old departmental webpage [here][5]. 
+**Contact.** You can reach out to me via my work e-mail, rabboud {at} schmidtfutures.com, or via ralph {at} ralphabb.ai. You can also find my old Oxford departmental webpage [here][4]. 
 
 [1]: https://www.cs.ox.ac.uk/people/IsmailIlkan.Ceylan/
 [2]: https://www.cs.ox.ac.uk/people/Thomas.Lukasiewicz/
-[3]: https://www.the-learning-agency-lab.com/
-[4]: https://www.schmidtfutures.com/
-[5]: https://www.cs.ox.ac.uk/people/ralph.abboud/
-[6]: https://www.crick.ac.uk/
+[3]: https://www.schmidtfutures.com/
+[4]: https://www.cs.ox.ac.uk/people/ralph.abboud/

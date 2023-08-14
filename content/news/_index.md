@@ -8,10 +8,14 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 6
+num_news: 7
 
 news_items:
-- text: "\"Shortest Path Networks for Graph Property Prediction\" accepted as a spotlight paper at LoG 2022!"
+- text: "I have started a new role as a Science Associate within the Learning Engineering team at Schmidt Futures."
+  extra_text: "August 2023"
+  date: 2023-08-14
+  icon: "briefcase"
+- text: "\"Shortest Path Networks for Graph Property Prediction\" accepted as a spotlight paper at LoG 2022"
   extra_text: "November 2022"
   date: 2022-11-24
   icon: "star"
