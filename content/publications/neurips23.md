@@ -1,5 +1,5 @@
 ---
-title: "BoxE: A Box Embedding Model for Knowledge Base Completion"
+title: "PlanE: Representational Learning over Planar Graphs"
 authors:
 - Radoslav Dimitrov
 - Zeyang Zhao
