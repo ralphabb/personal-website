@@ -8,9 +8,19 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 7
+num_news: 9
 
 news_items:
+- text: "\"BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology\" accepted at EMNLP 2023"
+  extra_text: "October 2023"
+  date: 2023-10-07
+  icon: "star"
+  link: "https://arxiv.org/abs/2310.10632"
+- text: "\"PlanE: Representational Learning over Planar Graphs\" accepted at NeurIPS 2023"
+  extra_text: "September 2023"
+  date: 2023-09-22
+  icon: "star"
+  link: "https://arxiv.org/abs/2307.01180"
 - text: "I have started a new role as a Science Associate within the Learning Engineering team at Schmidt Futures."
   extra_text: "August 2023"
   date: 2023-08-14
