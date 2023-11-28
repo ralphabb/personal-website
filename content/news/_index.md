@@ -8,9 +8,19 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 9
+num_news: 11
 
 news_items:
+- text: "Top reviewer at LoG 2023"
+  link: "https://twitter.com/LogConference/status/1729167583637848291"
+  date: 2023-11-27
+  icon: "award"
+  extra_text: "November 2023"
+- text: "Top reviewer at NeurIPS 2023"
+  link: "https://nips.cc/Conferences/2023/ProgramCommittee"
+  date: 2023-11-21
+  icon: "award"
+  extra_text: "November 2023"
 - text: "\"BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology\" accepted at EMNLP 2023"
   extra_text: "October 2023"
   date: 2023-10-07
