@@ -11,6 +11,10 @@ default_news_icon: "file-text"
 num_news: 11
 
 news_items:
+- text: "I have become a Program Scientist at the Learning Engineering Virtual Institute (LEVI)."
+  extra_text: "May 2024"
+  date: 2024-05-02
+  icon: "briefcase"
 - text: "Top reviewer at LoG 2023"
   link: "https://twitter.com/LogConference/status/1729167583637848291"
   date: 2023-11-27
@@ -31,10 +35,6 @@ news_items:
   date: 2023-09-22
   icon: "star"
   link: "https://arxiv.org/abs/2307.01180"
-- text: "I have started a new role as a Science Associate within the Learning Engineering team at Schmidt Futures."
-  extra_text: "August 2023"
-  date: 2023-08-14
-  icon: "briefcase"
 - text: "\"Shortest Path Networks for Graph Property Prediction\" accepted as a spotlight paper at LoG 2022"
   extra_text: "November 2022"
   date: 2022-11-24
