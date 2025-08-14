@@ -22,5 +22,5 @@ news_items:
 - text: "I wrote an article on how AI should take inspiration from education for the Learning Agency"
   link: "https://the-learning-agency.com/the-cutting-ed/article/what-it-takes-to-unlock-the-promise-of-ai-for-education/"
   date: 2025-05-28
-  icon: "newspaper-o"
+  icon: "fa-newspaper-o"
 ---

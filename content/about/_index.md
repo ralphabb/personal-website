@@ -5,7 +5,7 @@ draft: false
 headless: true
 
 full_name: "Ralph Abboud"
-profile_picture: "profile.png"
+profile_picture: "profile.jpeg"
 cv: "Ralph_Abboud_CV.pdf"
 
 socials:
