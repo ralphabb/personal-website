@@ -29,15 +29,19 @@ socials:
 
 ---
 
-**Bio.** I completed a D.Phil in Computer Science from the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][1] and [Prof. Thomas Lukasiewicz][2] in 2022. My main research area is graph representation learning (GRL). 
-In particular, I am interested in studying the strengths and limitations of GRL models, such as shallow embedding models and graph neural networks (GNNs),
-and proposing machine learning approaches with improved inductive capacity, interpretability, and representation power over relational data. 
+**Current Work.** I am a Program Scientist at [Renaissance Philanthropy][1] (RenPhil), leading AI work in the organization's AI for Math and AI for Education portfolios.
 
-**Current Work.** I am currently a Program Scientist at the [Learning Engineering Virtual Institute][3], working on applying large language models (LLMs) and structure-oriented machine learning approaches (e.g., GRL techniques) to improve middle school math education.
+**Previous Roles.** Before joining RenPhil, I worked at the [Learning Engineering Virtual Institute][4] (now also housed at Renaissance), initially at [Schmidt Futures][6], then at the [Digital Harbor Foundation][7]. 
+Previously, I [completed a D.Phil][5] in Computer Science from the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][2] and [Prof. Thomas Lukasiewicz][3], with my research focusing on graph representation learning (GRL). 
 
-**Contact.** You can reach out to me via my work e-mail, rabboud {at} levimath.org, or via ralph {at} ralphabb.ai. You can also find my old Oxford departmental webpage [here][4]. 
+**Contact.** 
+- If your inquiry relates to my current work at RenPhil, please reach me at ralph {at} renphil.org.
+- For other professional inquiries (e.g., consulting, collaboration, research) and for personal queries, please reach me at ralph {at} ralphabb.ai.
 
-[1]: https://www.cs.ox.ac.uk/people/IsmailIlkan.Ceylan/
-[2]: https://www.cs.ox.ac.uk/people/Thomas.Lukasiewicz/
-[3]: https://www.learning-engineering-virtual-institute.org/
-[4]: https://www.cs.ox.ac.uk/people/ralph.abboud/
+[1]: https://www.renaissancephilanthropy.org/
+[2]: https://www.cs.ox.ac.uk/people/IsmailIlkan.Ceylan/
+[3]: https://www.cs.ox.ac.uk/people/Thomas.Lukasiewicz/
+[4]: https://www.learning-engineering-virtual-institute.org/
+[5]: https://www.cs.ox.ac.uk/people/ralph.abboud/
+[6]: https://www.schmidtfutures.com/
+[7]: https://digitalharbor.org/
