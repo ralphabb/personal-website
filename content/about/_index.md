@@ -34,9 +34,7 @@ socials:
 **Previous Roles.** Before joining RenPhil, I worked at the [Learning Engineering Virtual Institute][4] (now also housed at Renaissance), initially at [Schmidt Futures][6], then at the [Digital Harbor Foundation][7]. 
 Previously, I [completed a D.Phil][5] in Computer Science from the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][2] and [Prof. Thomas Lukasiewicz][3], with my research focusing on graph representation learning (GRL). 
 
-**Contact.** 
-- If your inquiry relates to my current work at RenPhil, please reach me at ralph {at} renphil.org.
-- For other professional inquiries (e.g., consulting, collaboration, research) and for personal queries, please reach me at ralph {at} ralphabb.ai.
+**Contact.** For professional inquiries (e.g., consulting, collaboration, research) and for personal queries, please reach me at ralph {at} ralphabb.ai.
 
 [1]: https://www.renaissancephilanthropy.org/
 [2]: https://www.cs.ox.ac.uk/people/IsmailIlkan.Ceylan/
