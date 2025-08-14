@@ -20,7 +20,7 @@ news_items:
   link: "https://icml.cc/Conferences/2025/ProgramCommittee#top-reviewer"
   date: 2025-07-14
   icon: "award"
-- text: "I wrote an article on how AI should take inspiration from education for the Learning Agency"
+- text: "I wrote an article on how AI should take inspiration from education"
   extra_text: "May 2025"
   link: "https://the-learning-agency.com/the-cutting-ed/article/what-it-takes-to-unlock-the-promise-of-ai-for-education/"
   date: 2025-05-28
