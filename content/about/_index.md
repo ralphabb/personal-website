@@ -29,9 +29,9 @@ socials:
 
 ---
 
-**Current Work.** I am a Program Scientist at [Renaissance Philanthropy][1] (RenPhil), leading AI work in the organization's AI for Math and AI for Education portfolios.
+**Current Work.** I am a Principal Scientist at [Renaissance Philanthropy][1] (RenPhil), leading the organization's AI for Math program and several internal AI projects and initiatives. I also support RenPhil's AI for Education programs.
 
-**Previous Roles.** Before joining RenPhil, I worked at the [Learning Engineering Virtual Institute][4] (now also housed at Renaissance), initially at [Schmidt Futures][6], then at the [Digital Harbor Foundation][7]. 
+**Previous Roles.** Before joining RenPhil, I worked at the [Learning Engineering Virtual Institute][4] (now also housed at RenPhil), initially at [Schmidt Futures][6], then at the [Digital Harbor Foundation][7]. 
 Previously, I [completed a D.Phil][5] in Computer Science from the University of Oxford under the supervision of [Dr. İsmail İlkan Ceylan][2] and [Prof. Thomas Lukasiewicz][3], with my research focusing on graph representation learning (GRL). 
 
 **Contact.** For professional inquiries (e.g., consulting, collaboration, research) and for personal queries, please reach me at ralph {at} ralphabb.ai.
