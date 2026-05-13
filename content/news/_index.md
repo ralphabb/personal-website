@@ -8,12 +8,12 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 3
+num_news: 4
 
 news_items:
 - text: "Gold reviewer at ICML 2026"
   extra_text: "May 2026"
-  date: 2025-05-13
+  date: 2026-05-13
   icon: "award"
 - text: "I have been promoted to a Principal Scientist at Renaissance Philanthropy (RenPhil)."
   extra_text: "May 2026"
