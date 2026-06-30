@@ -13,6 +13,7 @@ num_news: 4
 news_items:
 - text: "Gold reviewer at ICML 2026"
   extra_text: "May 2026"
+  link: "https://icml.cc/Conferences/2026/ProgramCommittee#gold"
   date: 2026-05-13
   icon: "award"
 - text: "I have been promoted to a Principal Scientist at Renaissance Philanthropy (RenPhil)."
